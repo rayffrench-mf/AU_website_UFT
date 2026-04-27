@@ -8,3 +8,4 @@ Browser("Australian Unity | Real").Page("Private Health Insurance:").WebRadioGro
 Browser("Australian Unity | Real").Page("Private Health Insurance:").WebButton("Get a quote").Click @@ script infofile_;_ZIP::ssf8.xml_;_
 Browser("Australian Unity | Real").Page("Recommendation").Check CheckPoint("Recommendation") @@ script infofile_;_ZIP::ssf9.xml_;_
 Browser("Australian Unity | Real").Page("Recommendation").Image("Logo").Click @@ script infofile_;_ZIP::ssf10.xml_;_
+' comment

@@ -13,6 +13,6 @@ Browser("Australian Unity | Real_2").Page("Private Health Insurance:").WebButton
 Browser("Australian Unity | Real_2").Page("Recommendation").Image("Logo").Click @@ script infofile_;_ZIP::ssf22.xml_;_
 
 
-SystemUtil.CloseProcessByName "chrome.exe"
+'SystemUtil.CloseProcessByName "chrome.exe"
 
 ' comment
